@@ -1,4 +1,4 @@
-# DevWeb-Sites
+# ProjetoWeb VickMakeUp
 Projeto para criar web sites como desenvolvedor web focado em front-end, design e code feitos por mim!
 Já consegui implementar um fron-end de um e-commerce dentro do site e outras páginas, está bem imersivo. Estou desenvolvendo para a minha esposa que é maquiadora/influencer.
 No futuro pretendo adicionar um sistema de agendamentos de maquiagem e um desenvolver todo o Back-End dele, eu fiz o Design também, pois tenho conhecimentos na área, trabalho na verdade construindo logotipos, banners, flyers, etc... no photoshop e agora vou aprimorar e partir para o back-end, onde irei implementar um sistema de pagamentos também e um pequeno comércio compartilhado com outras maquiadoras. A proposta é:
